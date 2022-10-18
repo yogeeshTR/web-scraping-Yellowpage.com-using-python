@@ -1,4 +1,4 @@
-# web-scraping-Yellowpage.com-using-python
+# web-scraping-Yellowpage.com-using-beautifulSoup-and-Requests
 
 **Introduction**
 There is a vast amount of data available on the internet, most of it is in the unstructured format those data cannot be used directly to build a model .So industries find a way to extract meaningful information from unstructured data. This is where web scraping comes into the picture.
